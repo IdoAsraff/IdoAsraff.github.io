@@ -1,5 +1,3 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a software engineer with 6 years of experience, and software architecture is my passionn. A 8200 Alumnus, experienced in software engineering and research. I thrive on designing large systems, solving complex architecture problems, and ensuring project stability and scalability. I have both studied and taught design principles and clean code practices to colleagues and cadets.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am an avid learner. constantly exploring new technologies. My ability to quickly grasp and deeply understand new concepts drives my continuous growth and adaptability in the ever-evolving tech landscape.
